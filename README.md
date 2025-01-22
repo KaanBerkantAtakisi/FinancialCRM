@@ -18,9 +18,9 @@ Kullanıcılar bu ekranda CRUD işlemlerini yani ekleme, silme, güncelleme, lis
 ## 🛒 Harcamalar Ekranı
 Kullanıcılar bu ekranda giderlerini kategorilere ayırabilir ve CRUD işlemlerini gerçekleştirebilir. Aynı zamanda toplam masrafını da bu ekrandan görebilir.
 ![image alt](https://github.com/KaanBerkantAtakisi/FinancialCRM/blob/16553c616d8d8ad428cdffdf2189d25ed5ae22fe/Harcamalar.png)
-## Kategoriler Ekranı
+## ☰ Kategoriler Ekranı
 Kullanıcılar bu ekranda kategoriler üzerinde ekleme silme güncelleme ve listeleme işlemleri yapabilir.
 ![image alt](https://github.com/KaanBerkantAtakisi/FinancialCRM/blob/16553c616d8d8ad428cdffdf2189d25ed5ae22fe/Categories.png)
-## Ayarlar Ekranı
+## ⚙️ Ayarlar Ekranı
 Kullanıcılar bu ekranda bilgilerini güncelleyebilir veya hesabını silebilir.
 ![image alt](https://github.com/KaanBerkantAtakisi/FinancialCRM/blob/16553c616d8d8ad428cdffdf2189d25ed5ae22fe/Ayarlar.png)
